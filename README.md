@@ -63,11 +63,3 @@ Both **preprocessed** and **raw** versions of the data were used for model train
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn` – visualization
 
----
-
-## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/shaghayegh-roozmeh/language-detection.git
-   cd language-detection
